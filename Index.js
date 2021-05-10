@@ -108,12 +108,3 @@ mkulima.printProducts()
 console.log(mkulima.getFarm(66562));
 console.log(mkulima.addproduct("Kamande", "Rassy", 20));
 console.log(mkulima.calculateOrderCost(200));
-
-
-
-
-
-
-
-
-
